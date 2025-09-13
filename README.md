@@ -16,8 +16,8 @@ The dashboard analyzes **253M+ sales records** with key KPIs such as **Total Sal
 ---
 
 ## 📷 Dashboard Preview
-![Car Sales Dashboard Screenshot][((https://github.com/Kartikpatel3/Car-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-09-13%20152204.png))
-](https://github.com/Kartikpatel3/Car-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-09-13%20152204.png)
+![Car Sales Dashboard Screenshot][ https://github.com/Kartikpatel3/Car-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-09-13%20152204.png ]
+
 ---
 
 ## ⚙️ Tech Stack
