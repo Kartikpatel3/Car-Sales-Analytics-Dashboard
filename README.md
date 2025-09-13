@@ -17,7 +17,7 @@ The dashboard analyzes **253M+ sales records** with key KPIs such as **Total Sal
 
 
 ## 📷 Dashboard Preview
-[![Olympics Dashboard Screenshot](https://github.com/Kartikpatel3/Olympics-Data-Analysis-PowerBI/blob/main/Screenshot%202025-09-12%20102929.png)
+[![Olympics Dashboard Screenshot](https://github.com/Kartikpatel3/Olympics-Data-Analysis-PowerBI/blob/main/Screenshot%2025-09-13%152204.png)
 
 ---
 
